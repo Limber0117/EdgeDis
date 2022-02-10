@@ -18,7 +18,7 @@ If everything is correct, you will obtain some .jar files as well as some .jar.g
 
  All the commands used in this step have been writen in .sh files, which can be found in the DIS-java-example folder in the project.
 
- ## copy the entire project folder onto different edge servers (can be either physical or VM servers)
+ Please copy the entire project folder onto different edge servers (can be either physical or VM servers)
 
  ## for each edge server
  - go to the DIS-java-example subfolder 
