@@ -4,7 +4,7 @@ Please note that the following parameter kept in database are only used to facil
 
 # Results table for experiment results collection
 ```
-	create table Results(
+  create table Results(
     id int(32) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 
     sid varchar(100) not null, 
     sip varchar(100) not null, 
