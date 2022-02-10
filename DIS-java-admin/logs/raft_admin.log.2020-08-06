@@ -1,0 +1,143 @@
+2020-08-06 00:23:53,301 INFO [main]	register protocol:1 success
+2020-08-06 00:23:53,371 INFO [main]	register protocol:29 success
+2020-08-06 00:23:53,371 INFO [main]	register protocol:4 success
+2020-08-06 00:23:53,381 INFO [main]	register protocol:3 success
+2020-08-06 00:23:53,381 INFO [main]	register protocol:31 success
+2020-08-06 00:23:53,381 INFO [main]	register protocol:28 success
+2020-08-06 00:23:53,381 INFO [main]	register protocol:32 success
+2020-08-06 00:23:53,391 INFO [main]	register protocol:33 success
+2020-08-06 00:23:53,391 INFO [main]	register protocol:30 success
+2020-08-06 00:23:53,391 INFO [main]	register load balance factory:RandomLoadBalanceFactory success
+2020-08-06 00:23:53,391 INFO [main]	register load balance factory:RoundRobinLoadBalanceFactory success
+2020-08-06 00:23:53,391 INFO [main]	register load balance factory:WeightLoadBalanceFactory success
+2020-08-06 00:23:53,391 INFO [main]	register load balance factory:FairLoadBalanceFactory success
+2020-08-06 00:24:21,084 INFO [main]	register protocol:1 success
+2020-08-06 00:24:21,155 INFO [main]	register protocol:29 success
+2020-08-06 00:24:21,161 INFO [main]	register protocol:4 success
+2020-08-06 00:24:21,171 INFO [main]	register protocol:3 success
+2020-08-06 00:24:21,171 INFO [main]	register protocol:31 success
+2020-08-06 00:24:21,171 INFO [main]	register protocol:28 success
+2020-08-06 00:24:21,171 INFO [main]	register protocol:32 success
+2020-08-06 00:24:21,171 INFO [main]	register protocol:33 success
+2020-08-06 00:24:21,171 INFO [main]	register protocol:30 success
+2020-08-06 00:24:21,171 INFO [main]	register load balance factory:RandomLoadBalanceFactory success
+2020-08-06 00:24:21,171 INFO [main]	register load balance factory:RoundRobinLoadBalanceFactory success
+2020-08-06 00:24:21,171 INFO [main]	register load balance factory:WeightLoadBalanceFactory success
+2020-08-06 00:24:21,181 INFO [main]	register load balance factory:FairLoadBalanceFactory success
+2020-08-06 00:24:21,201 INFO [main]	create thread:timeout-timer-thread-1
+2020-08-06 00:24:21,201 INFO [main]	create thread:health-check-timer-thread-1
+2020-08-06 00:24:21,201 INFO [main]	create thread:fairStrategy-timer-thread-1
+2020-08-06 00:24:21,211 INFO [main]	create thread:client-work-thread-1
+2020-08-06 00:24:21,211 INFO [main]	create thread:client-work-thread-2
+2020-08-06 00:24:21,211 INFO [main]	create thread:client-work-thread-3
+2020-08-06 00:24:21,211 INFO [main]	create thread:client-work-thread-4
+2020-08-06 00:24:21,871 INFO [main]	create thread:client-io-thread-1
+2020-08-06 00:24:21,901 INFO [main]	create thread:client-io-thread-2
+2020-08-06 00:24:21,931 INFO [main]	create thread:client-io-thread-3
+2020-08-06 00:24:21,963 INFO [main]	create thread:client-io-thread-4
+2020-08-06 00:24:23,201 INFO [main]	create thread:fairStrategy-timer-thread-1
+2020-08-06 00:24:23,201 INFO [main]	create thread:client-work-thread-1
+2020-08-06 00:24:23,201 INFO [main]	create thread:client-work-thread-2
+2020-08-06 00:24:23,201 INFO [main]	create thread:client-work-thread-3
+2020-08-06 00:24:23,202 INFO [main]	create thread:client-work-thread-4
+2020-08-06 00:24:23,203 INFO [main]	create thread:client-io-thread-1
+2020-08-06 00:24:23,230 INFO [main]	create thread:client-io-thread-2
+2020-08-06 00:24:23,261 INFO [main]	create thread:client-io-thread-3
+2020-08-06 00:24:23,291 INFO [main]	create thread:client-io-thread-4
+2020-08-06 00:24:23,540 INFO [client-io-thread-2]	create thread:invalid-channel-callback-thread-1
+2020-08-06 00:24:29,051 INFO [Thread-1]	Brpc do clean work...
+2020-08-06 12:29:50,339 INFO [main]	register protocol:1 success
+2020-08-06 12:29:50,422 INFO [main]	register protocol:29 success
+2020-08-06 12:29:50,428 INFO [main]	register protocol:4 success
+2020-08-06 12:29:50,434 INFO [main]	register protocol:3 success
+2020-08-06 12:29:50,436 INFO [main]	register protocol:31 success
+2020-08-06 12:29:50,437 INFO [main]	register protocol:28 success
+2020-08-06 12:29:50,439 INFO [main]	register protocol:32 success
+2020-08-06 12:29:50,441 INFO [main]	register protocol:33 success
+2020-08-06 12:29:50,441 INFO [main]	register protocol:30 success
+2020-08-06 12:29:50,444 INFO [main]	register load balance factory:RandomLoadBalanceFactory success
+2020-08-06 12:29:50,444 INFO [main]	register load balance factory:RoundRobinLoadBalanceFactory success
+2020-08-06 12:29:50,445 INFO [main]	register load balance factory:WeightLoadBalanceFactory success
+2020-08-06 12:29:50,445 INFO [main]	register load balance factory:FairLoadBalanceFactory success
+2020-08-06 12:29:50,470 INFO [main]	create thread:timeout-timer-thread-1
+2020-08-06 12:29:50,474 INFO [main]	create thread:health-check-timer-thread-1
+2020-08-06 12:29:50,478 INFO [main]	create thread:fairStrategy-timer-thread-1
+2020-08-06 12:29:50,481 INFO [main]	create thread:client-work-thread-1
+2020-08-06 12:29:50,482 INFO [main]	create thread:client-work-thread-2
+2020-08-06 12:29:50,482 INFO [main]	create thread:client-work-thread-3
+2020-08-06 12:29:50,482 INFO [main]	create thread:client-work-thread-4
+2020-08-06 12:29:51,134 INFO [main]	create thread:client-io-thread-1
+2020-08-06 12:29:51,171 INFO [main]	create thread:client-io-thread-2
+2020-08-06 12:29:51,198 INFO [main]	create thread:client-io-thread-3
+2020-08-06 12:29:51,228 INFO [main]	create thread:client-io-thread-4
+2020-08-06 12:29:52,321 INFO [main]	create thread:fairStrategy-timer-thread-1
+2020-08-06 12:29:52,321 INFO [main]	create thread:client-work-thread-1
+2020-08-06 12:29:52,321 INFO [main]	create thread:client-work-thread-2
+2020-08-06 12:29:52,322 INFO [main]	create thread:client-work-thread-3
+2020-08-06 12:29:52,322 INFO [main]	create thread:client-work-thread-4
+2020-08-06 12:29:52,327 INFO [main]	create thread:client-io-thread-1
+2020-08-06 12:29:52,355 INFO [main]	create thread:client-io-thread-2
+2020-08-06 12:29:52,384 INFO [main]	create thread:client-io-thread-3
+2020-08-06 12:29:52,414 INFO [main]	create thread:client-io-thread-4
+2020-08-06 12:29:52,600 INFO [client-io-thread-1]	create thread:invalid-channel-callback-thread-1
+2020-08-06 12:29:58,114 INFO [Thread-1]	Brpc do clean work...
+2020-08-06 17:37:00,522 INFO [main]	register protocol:1 success
+2020-08-06 17:37:00,594 INFO [main]	register protocol:29 success
+2020-08-06 17:37:00,602 INFO [main]	register protocol:4 success
+2020-08-06 17:37:00,602 INFO [main]	register protocol:3 success
+2020-08-06 17:37:00,602 INFO [main]	register protocol:31 success
+2020-08-06 17:37:00,602 INFO [main]	register protocol:28 success
+2020-08-06 17:37:00,613 INFO [main]	register protocol:32 success
+2020-08-06 17:37:00,613 INFO [main]	register protocol:33 success
+2020-08-06 17:37:00,613 INFO [main]	register protocol:30 success
+2020-08-06 17:37:00,613 INFO [main]	register load balance factory:RandomLoadBalanceFactory success
+2020-08-06 17:37:00,613 INFO [main]	register load balance factory:RoundRobinLoadBalanceFactory success
+2020-08-06 17:37:00,613 INFO [main]	register load balance factory:WeightLoadBalanceFactory success
+2020-08-06 17:37:00,613 INFO [main]	register load balance factory:FairLoadBalanceFactory success
+2020-08-06 17:37:00,643 INFO [main]	create thread:timeout-timer-thread-1
+2020-08-06 17:37:00,643 INFO [main]	create thread:health-check-timer-thread-1
+2020-08-06 17:37:00,643 INFO [main]	create thread:fairStrategy-timer-thread-1
+2020-08-06 17:37:00,653 INFO [main]	create thread:client-work-thread-1
+2020-08-06 17:37:00,653 INFO [main]	create thread:client-work-thread-2
+2020-08-06 17:37:00,653 INFO [main]	create thread:client-work-thread-3
+2020-08-06 17:37:00,653 INFO [main]	create thread:client-work-thread-4
+2020-08-06 17:37:01,295 INFO [main]	create thread:client-io-thread-1
+2020-08-06 17:37:03,823 WARN [main]	init min idle object pool failed
+2020-08-06 17:37:03,826 INFO [main]	create thread:client-io-thread-2
+2020-08-06 17:37:06,333 WARN [main]	init min idle object pool failed
+2020-08-06 17:37:06,335 INFO [main]	create thread:client-io-thread-3
+2020-08-06 17:37:08,843 WARN [main]	init min idle object pool failed
+2020-08-06 17:37:08,844 INFO [main]	create thread:client-io-thread-4
+2020-08-06 17:37:11,347 WARN [main]	init min idle object pool failed
+2020-08-06 17:37:19,003 ERROR [main]	exception :
+com.baidu.brpc.exceptions.RpcException: com.baidu.brpc.exceptions.RpcException: channel pool make new object failed, active=0,idle=0,server=136.186.108.59:8001, ex=connection timed out: /136.186.108.59:8001
+	at com.baidu.brpc.client.BrpcProxy.intercept(BrpcProxy.java:268) [brpc-java-2.5.9.jar:?]
+	at com.github.wenweihu86.raft.service.RaftClientService$$EnhancerByCGLIB$$6a7d766d.getConfiguration(<generated>) [classes/:?]
+	at com.github.wenweihu86.raft.service.RaftClientServiceProxy.updateConfiguration(RaftClientServiceProxy.java:75) [classes/:?]
+	at com.github.wenweihu86.raft.service.RaftClientServiceProxy.<init>(RaftClientServiceProxy.java:31) [classes/:?]
+	at com.github.wenweihu86.raft.admin.AdminMain.main(AdminMain.java:30) [classes/:?]
+Caused by: com.baidu.brpc.exceptions.RpcException: channel pool make new object failed, active=0,idle=0,server=136.186.108.59:8001, ex=connection timed out: /136.186.108.59:8001
+	at com.baidu.brpc.client.RpcClient.selectChannel(RpcClient.java:331) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.client.RpcClient.sendRequest(RpcClient.java:389) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.interceptor.LoadBalanceInterceptor.rpcCore(LoadBalanceInterceptor.java:88) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.interceptor.LoadBalanceInterceptor.invokeRpc(LoadBalanceInterceptor.java:82) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.interceptor.LoadBalanceInterceptor.aroundProcess(LoadBalanceInterceptor.java:62) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.interceptor.DefaultInterceptorChain.intercept(DefaultInterceptorChain.java:43) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.interceptor.AbstractInterceptor.aroundProcess(AbstractInterceptor.java:35) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.interceptor.ClientTraceInterceptor.aroundProcess(ClientTraceInterceptor.java:40) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.interceptor.DefaultInterceptorChain.intercept(DefaultInterceptorChain.java:43) ~[brpc-java-2.5.9.jar:?]
+	at com.baidu.brpc.client.BrpcProxy.intercept(BrpcProxy.java:266) ~[brpc-java-2.5.9.jar:?]
+	... 4 more
+Caused by: io.netty.channel.ConnectTimeoutException: connection timed out: /136.186.108.59:8001
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe$1.run(AbstractNioChannel.java:261) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.PromiseTask$RunnableAdapter.call(PromiseTask.java:38) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.ScheduledFutureTask.run(ScheduledFutureTask.java:139) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1044) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-all-4.1.42.Final.jar:4.1.42.Final]
+	at java.lang.Thread.run(Unknown Source) ~[?:1.8.0_241]
+2020-08-06 17:37:19,011 INFO [Thread-1]	Brpc do clean work...
+2020-08-06 17:37:19,013 INFO [Thread-1]	invoke shutdownGlobalThreadPools
