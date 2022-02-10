@@ -34,12 +34,12 @@ ROOT_DIR=./env
 mkdir -p $ROOT_DIR
 cd $ROOT_DIR
 
-	mkdir node1  (Note: here "node1" is the first edge server, it can be any folder name in practice)
-	cd node1
-	cp -f ../../target/$EXAMPLE_TAR .
-	tar -zxvf $EXAMPLE_TAR
-	chmod +x ./bin/*.sh
-	cd -
+mkdir node1  (Note: here "node1" is the first edge server, it can be any folder name in practice)
+cd node1
+cp -f ../../target/$EXAMPLE_TAR .
+tar -zxvf $EXAMPLE_TAR
+chmod +x ./bin/*.sh
+cd -
   
 ```
 
